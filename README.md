@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Kenneth 👋
 
-<!--
-**KennethMin/KennethMin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build and ship React/TypeScript apps end to end — frontend, backend, and everything in between.
 
-Here are some ideas to get you started:
+🚀 **[Tsemppi](https://tsemppiapp.fi/)** — AI workout app. Hit **#1 most-downloaded in Finland** on the App Store (now top 50), 4.9★, 2,000+ users. React Native + custom Next.js admin dashboard with real-time chat and analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🥗 **[Ravinne](https://ravinne.fi/)** — AI nutrition app. Photo food-recognition over a 1.3M-item database, voice logging, barcode scanning. Built solo, React + Next.js.
+
+Both run on full custom backends I built and self-host, with RevenueCat payments and AI/LLM features.
+
+**Stack:** React · TypeScript · JavaScript · Node.js · Next.js · React Native
+
+🇪🇪🇫🇮 Half-Estonian, half-Finnish. Open to work, relocating to Tallinn.
+
+📫 [LinkedIn](https://www.linkedin.com/in/kenneth-minkinen-118643281/)
