@@ -42,8 +42,6 @@ You can log a meal by scanning a barcode, taking a photo, or saying or typing a 
 
 ## Other work
 
-I was CTO and a full-stack developer at Kotisivuvisio Oy, a three-person web agency, where I coded custom websites and custom e-commerce stores for small businesses.
-
 - [maxehitus.ee](https://maxehitus.ee) is the Estonian-language site of a construction company in Rakvere: 44 pages in Next.js 16, with a price calculator. Three redirects once turned out to 404 in production, so I added a post-deploy script that checks every route and redirect against the live site.
 - kapahoid.ee is the site of a family-run dog hotel in Rakvere, also in Estonian. Its booking calculator handles weekend and holiday surcharges and a weekly discount, which is why 7 nights can cost less than 6.
 
